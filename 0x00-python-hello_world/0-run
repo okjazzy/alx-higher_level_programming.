@@ -1,2 +1,2 @@
 #!/bin/bash
-chmod +X $PYFILE && ./$PYFILE
+python3 $PYFILE
