@@ -4,9 +4,3 @@ function factorial (n) {
 }
 
 console.log(factorial(Number(process.argv[2])));
-Footer
-© 2022 GitHub, Inc.
-Footer navigation
-Terms
-Privacy
-Security
